@@ -44,4 +44,4 @@ rm -rf $RPM_BUILD_ROOT
 %doc README
 %attr(755,root,root) %{_bindir}/*
 %{_desktopdir}/*.desktop
-%{_pixmapsdir}/%{name}/*
+%{_pixmapsdir}/%{name}
