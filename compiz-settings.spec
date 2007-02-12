@@ -1,5 +1,5 @@
 Summary:	compiz configuration program
-Summary(pl):	Program do konfiguracji compiza
+Summary(pl.UTF-8):   Program do konfiguracji compiza
 Name:		compiz-settings
 Version:	0.07
 Release:	1
@@ -20,7 +20,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 compiz configuration program with a SLAB style interface.
 
-%description -l pl
+%description -l pl.UTF-8
 Program do konfiguracji compiza z interfejsem w stylu SLAB.
 
 %prep
