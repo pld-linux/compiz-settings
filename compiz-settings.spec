@@ -1,5 +1,5 @@
 Summary:	compiz configuration program
-Summary(pl.UTF-8):   Program do konfiguracji compiza
+Summary(pl.UTF-8):	Program do konfiguracji compiza
 Name:		compiz-settings
 Version:	0.07
 Release:	1
