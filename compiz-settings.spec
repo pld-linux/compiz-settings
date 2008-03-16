@@ -12,6 +12,8 @@ BuildRequires:	GConf2-devel >= 2.0
 BuildRequires:	autoconf
 BuildRequires:	automake
 BuildRequires:	compiz-devel
+BuildRequires:	dbus-devel
+BuildRequires:	dbus-glib-devel
 BuildRequires:	libtool
 BuildRequires:	pkgconfig
 Requires:	compiz
